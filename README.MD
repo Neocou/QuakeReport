@@ -6,13 +6,13 @@ API接口是 https://earthquake.usgs.gov/fdsnws/event/1/query?
 ### 效果如下：
 
 
-![1](https://github.com/Neocou/QuakeReport/blob/master/pic/1.PNG)
+![1](https://raw.githubusercontent.com/Neocou/QuakeReport/master/pic/1.PNG)
 
-![2](https://github.com/Neocou/QuakeReport/blob/master/pic/2.PNG)
+![2](https://raw.githubusercontent.com/Neocou/QuakeReport/master/pic/2.PNG)
 
-![3](https://github.com/Neocou/QuakeReport/blob/master/pic/3.PNG)
+![3](https://raw.githubusercontent.com/Neocou/QuakeReport/master/pic/3.PNG)
 
-![4](https://github.com/Neocou/QuakeReport/blob/master/pic/4.PNG)
+![4](https://raw.githubusercontent.com/Neocou/QuakeReport/master/pic/4.PNG)
 
 
 
